@@ -1,0 +1,10 @@
+{
+  "name": "Plain Text",
+  "author": "Pavel Karoukin",
+  "authorUrl": "https://pavel.karoukin.us",
+  "features": [
+    "page",
+    "email",
+    "form"
+  ]
+}
